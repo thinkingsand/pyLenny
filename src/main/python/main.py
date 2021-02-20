@@ -28,7 +28,6 @@ class MainWindow(QtWidgets.QMainWindow):
 
     def volumeChanged(self):
         channel.set_volume(self.volumeSlider.value()/100)
-        print(channel.get_volume())
 
     def randomClip(self):
         id = random.randrange(1, 16)
