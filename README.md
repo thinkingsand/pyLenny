@@ -4,7 +4,7 @@ Add description
 
 ## Installing on macOS
 
-1. Download pyLenny.dmg, open it and move the app file to the Applications folder.
+1. Download [pyLenny.dmg](https://github.com/Mcharlsto/pyLenny/releases/download/1.0.0/pyLenny.dmg), open it and move the app file to the Applications folder.
 2. Open pyLenny from the Launchpad
 
 ## Installing on Windows, Linux
