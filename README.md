@@ -1,6 +1,14 @@
 # pyLenny
- 
-Add description
+
+[!Screenshot](screenshot.png)
+
+A Python/Qt port of the Lenny scambaiting system.
+
+"Lenny" is a collection of recorded messages, designed to fool telemarketers into thinking they are speaking to a real person.
+
+YouTube demonstration:
+
+[![](http://img.youtube.com/vi/CfK8Mry8bi0/0.jpg)](http://www.youtube.com/watch?v=CfK8Mry8bi0 "")
 
 ## Installing on macOS
 
