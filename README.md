@@ -1,6 +1,6 @@
 # pyLenny
 
-[!Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 A Python/Qt port of the Lenny scambaiting system.
 
